@@ -1,5 +1,5 @@
 ruleSets:
-- name: JooJump - CN
+- name: gfdg - CN
   rules: 
 # Proxy
   - DOMAIN-SUFFIX,amazonaws.com,Proxy
